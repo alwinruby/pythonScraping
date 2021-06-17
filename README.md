@@ -11,4 +11,5 @@
    
          brew install --cask chromedriver
 
-3.
+3. Test by opening and closing the browser in the script.
+
